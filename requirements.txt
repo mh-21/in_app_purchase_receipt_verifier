@@ -20,3 +20,4 @@ rerun==1.0.28
 gevent
 requests
 pycrypto
+urllib3
